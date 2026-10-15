@@ -4,7 +4,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "server": "npx tsx src/server.ts",
+    "server": "npx tsx watch src/server.ts",
     "test": "echo 'Hello World'"
   },
   "keywords": [],
